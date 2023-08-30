@@ -1,2 +1,2 @@
 ﻿# bubbleGame
-This is a basic bubbel game that uses javascript 
+This is a basic bubble game that uses javascript 
